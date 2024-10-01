@@ -22,7 +22,7 @@ function Products() {
   return (
     <Box padding={3}>
       <Typography variant="h4" gutterBottom>
-        Be Luxurious
+        Great Stuff
       </Typography>
       {loading ? (
         <Box display="flex" justifyContent="center" padding={2}>
@@ -41,7 +41,7 @@ function Products() {
                   component="img"
                   image={product.image}
                   alt={product.title}
-                  sx={{ height: 140 }} // Adjust height as needed
+                  sx={{ height: 140, objectFit: 'contain'  }} // Adjust height as needed
                 />
                 <CardContent>
                   <Typography variant="h6">{product.title}</Typography>

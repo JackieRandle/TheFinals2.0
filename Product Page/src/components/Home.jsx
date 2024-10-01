@@ -28,7 +28,7 @@ function Home() {
     >
       <Paper elevation={3} sx={{ padding: 3, maxWidth: 400, width: '100%' }}>
         <Typography variant="h4" gutterBottom align="center">
-          Luxury Items
+          Jacqueline Designs Center
         </Typography>
         <Typography variant="h6" gutterBottom align="center">
           Login

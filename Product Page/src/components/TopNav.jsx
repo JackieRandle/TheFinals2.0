@@ -28,7 +28,7 @@ export default function TopNav() {
             <HomeIcon />
           </IconButton>
           <Typography variant="h6" sx={{ flexGrow: 1 }}>
-            Luxury Items
+            Jacqueline Items
           </Typography>
           <IconButton
             color="inherit"
