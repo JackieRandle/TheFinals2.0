@@ -1,6 +1,6 @@
-# Shabby Chic
+# One Stop Shop
 
-Shabby Chic is a frontend web development application designed to showcase twenty products with detailed information. This application utilizes React for the frontend, Axios for API, React Router for navigation between different views, CSS Inline Styles, and Material UI.
+One Stop Shop is a frontend web development application designed to showcase twenty products with detailed information. This application utilizes React for the frontend, Axios for API, React Router for navigation between different views, CSS Inline Styles, and Material UI.
 
 ## Features
 
@@ -31,4 +31,4 @@ Shabby Chic is a frontend web development application designed to showcase twent
 
 ## Authors
 
-- [@SurrenderPRSVR](https://github.com/SurrenderPRSVR)
+- [@JackieRandle](https://github.com/JackieRandle/TheFinals2.0)

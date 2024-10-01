@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { fetchProducts } from "./apis"; // Import API function
 import { Box, Typography, Card, CardMedia, CardContent, CircularProgress } from '@mui/material';
+
 function Products() {
   const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(true);
